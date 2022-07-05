@@ -51,6 +51,7 @@ h2 {
 }
 
 .experince-area {
+    padding-left: 50px;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: bottom left;
